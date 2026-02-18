@@ -68,11 +68,6 @@ The methods were compared, and **mean imputation** was selected for the final da
 
 ---
 
-## 👩‍💻 Author
-
-**Valentina Agudelo Echeverri**  
-Biological Engineer  
-National University of Colombia
 
 ---
 
