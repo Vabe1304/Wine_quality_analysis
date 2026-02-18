@@ -69,8 +69,6 @@ The methods were compared, and **mean imputation** was selected for the final da
 ---
 
 
----
-
 ## 📜 License
 
 This project uses publicly available data from the UCI repository and is intended for educational purposes.
